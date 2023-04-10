@@ -1,2 +1,2 @@
 # livro de receitas
-### Olá! Bem vindo ao meulivro de receitas
+### Olá! Bem vindo ao meu livro de receitas
